@@ -1,9 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="160"        height="160"/>
+  <img src="https://media.giphy.com/media/z24q9PQNlw19u/giphy.gif" width="160"        height="160"/>
   <h2 aling="center">Hi there 👋, Soy Ana Cecilia </h2>
-  <h4 aling="center"> Soy una persona curiosa por naturaleza, y mi curiosidad me trajo a este hermoso mundo del desarrollo web, actualmente estoy aprendiendo sobre front-end y UX
-
-Te invito a que me puedas conocer :)</h4>
+  <h4 aling="center"> Soy una persona curiosa por naturaleza, y mi curiosidad me trajo a este hermoso mundo del desarrollo web, actualmente estoy aprendiendo sobre front-end y UX. Te invito a que me puedas conocerme :)</h4>
  </div>
 
 ---
