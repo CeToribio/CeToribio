@@ -1,4 +1,10 @@
-### Hi there 👋, Soy Ana Cecilia
+<div id="header" align="center">
+  <h1 aling="center">Hi there 👋, Soy Ana Cecilia </h1>
+  <h3 aling="center"> Soy una persona curiosa por naturaleza. Y mi curiosidad me trajo a este hermoso mundo del desarrollo web, actualmente estoy aprendiendo sobre front-end y UX
+
+Te invito a que me puedas conocer :)</h3>
+</div>
+
 
 <!--
 **CeToribio/CeToribio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +21,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="footer" align="center">
-  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="240" height="240"/>
-  </div>
+  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="200"        height="200"/>
+</div>
      
