@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="footer" align="center">
-  <iframe src="https://giphy.com/embed/HscDLzkO8EOTmgkhQP" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thecodingspacerd-code-coder-lets-HscDLzkO8EOTmgkhQP">via GIPHY</a></p>
+  <img src="https://giphy.com/embed/HscDLzkO8EOTmgkhQP" width="240" height="240"/>
   </div>
      
