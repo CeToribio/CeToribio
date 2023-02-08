@@ -9,7 +9,7 @@ Te invito a que me puedas conocer :)</h4>
 ---
 <h3> About me </h3>
 <p>🌱 Estoy interesa en seguir aprendiendo sobre front-end.</p>
-<p>😄 Pronombres: ella </p>
+<p>😄 Pronombre: ella </p>
 <p>💃 Hobbies: me gusta bailar y me encanta ver pelis </p>
 <p>🔧 Tecnologías: CSS | HTML | JS | node.js | git </p>
 <!--
