@@ -4,7 +4,9 @@
 
 I am a naturally curious person 🔎 , and my curiosity has led me to this beautiful world of web development 👩🏻‍💻. I invite you to get to know me 🙋🏻‍♀️.
 
-📚 Front-end web development
+📚 Front-end web development                                                                                                                                
+🔧 JS | CSS | HTML | React.js | Node.js | Git                                                                                                                                                                    
+🎨 UX | UI | FIGMA
 
 ---
 
