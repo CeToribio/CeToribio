@@ -5,9 +5,8 @@
 I am a naturally curious person 🔎 , and my curiosity has led me to this beautiful world of web development 👩🏻‍💻. I invite you to get to know me 🙋🏻‍♀️.
 
 📚 Front-end web development                                                                                                                                
-🔧 JS | HTML | React.js | Node.js | Git                                                                                                                                                                   
-🎨 UX | UI | FIGMA | CSS | SASS
-
+🔧 JS | HTML | React.js | Node.js | Git                                                                                                                                        
+🎨 UX | UI | FIGMA | CSS | SAS                                           
 ✨ Web accessibility (WCAG) | WAVE | AXE Devtools 
 
 ---
