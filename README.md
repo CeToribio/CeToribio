@@ -7,7 +7,7 @@ I am a naturally curious person 🔎, and my curiosity has led me to this beauti
 📱  Front-end mobile : Flutter                                                                                                                                             
 🎨  UX/UI Design: UX/UI Principles | Web Accessibility (WCAG) | WAVE | AXE Devtools 
 ### Current Activities
-🌱 Currently studying Fullstack Development at Digital House and UX/UI Design at Jump as part of the Codear Futura program.
+🌱 Currently studying Fullstack Development at Digital House and UX/UI Design at Jump Education as part of the Codear Futura program.
 ### Interests
 👀  `I am looking for projects to collaborate in front-end  and user experience.`
 
