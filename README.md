@@ -1,17 +1,36 @@
-# Hi there 👋, I'm Ana Cecilia 
+# ¡Hola! 👋 Soy Ana Cecilia
 
-I am a naturally curious person 🔎, and my curiosity has led me to this beautiful world of web development 👩🏻‍💻. I invite you to get to know me 🙋🏻‍♀️.
+Soy desarrolladora front-end con formación en Psicología, y actualmente estoy explorando el diseño de experiencias digitales desde lo técnico y lo humano.  
+Me interesa seguir aprendiendo cómo hacer productos que sean útiles, accesibles y agradables de usar. ✨
 
-### Skills                                                                                                                                                                                                                      
-📚  Front-end web development: JS | HTML | CSS | React.js | Node.js | Git                                                                              
-📱  Front-end mobile : Flutter                                                                                                                                             
-🎨  UX/UI Design: UX/UI Principles | Web Accessibility (WCAG) | WAVE | AXE Devtools 
-### Current Activities
-🌱 Currently studying Fullstack Development at Digital House and UX/UI Design at Jump Education as part of the Codear Futura program.
-### Interests
-👀  `I am looking for projects to collaborate in front-end  and user experience.`
+---
+
+### 💻 Habilidades  
+🧩 Front-end Web: HTML | CSS | JavaScript | React.js | Git  
+📱 Front-end Mobile: Flutter  
+🎨 UX/UI Design: Figma | Accesibilidad Web (WCAG, WAVE, AXE DevTools)  
+🧪 Testing: Jest | Flutter UI Test  
+📋 Herramientas ágiles: Trello | Notion | GitHub Projects  
+
+---
+
+### 📚 Formación  
+🎓 Bootcamp de Desarrollo Web – **Laboratoria**                                            
+🎓 Professional Developer(fullstack) – **Digital House**                                                   
+🎓 Diseño UX/UI – **Jump Educación** (Codear Futura)
+
+---
+
+### 🤝 Lo que me mueve  
+Estoy en constante aprendizaje y disfruto trabajar en proyectos donde el diseño y la tecnología se juntan para hacer la vida un poquito más fácil.
+
+💡 Me interesa colaborar en equipos donde pueda seguir creciendo como **Front-end Developer** y aportar desde el lado **UX**.
+
+---
+
+🔗 [Conectemos en LinkedIn](https://www.linkedin.com/in/ana-cecilia-toribio-arrieta/)
 
 
-  
+
 
      
