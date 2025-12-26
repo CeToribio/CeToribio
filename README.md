@@ -1,7 +1,8 @@
 # ¡Hola! 👋 Soy Ana Cecilia
 
-Soy desarrolladora front-end con formación en Psicología, y actualmente estoy explorando el diseño de experiencias digitales desde lo técnico y lo humano.  
-Me interesa seguir aprendiendo cómo hacer productos que sean útiles, accesibles y agradables de usar. ✨
+Soy desarrolladora front-end con experiencia en Flutter y base sólida en desarrollo web (JavaScript, React).
+Trabajo construyendo interfaces funcionales, accesibles y alineadas al usuario, desde el diseño en Figma hasta la implementación en código.
+Mi formación en Psicología me ayuda a tomar decisiones de UX con foco en las personas y su comportamiento.✨
 
 ---
 
