@@ -1,8 +1,8 @@
 # ¡Hola! 👋 Soy Ana Cecilia
 
 Soy desarrolladora front-end con experiencia en Flutter y base sólida en desarrollo web (JavaScript, React).
-Trabajo construyendo interfaces funcionales, accesibles y alineadas al usuario, desde el diseño en Figma hasta la implementación en código.
-Mi formación en Psicología me ayuda a tomar decisiones de UX con foco en las personas y su comportamiento.✨
+Trabajo construyendo interfaces funcionales, accesibles y alineadas al usuario, desde el diseño en Figma hasta la implementación en código, integrando APIs y cuidando la experiencia de uso.
+Mi formación en Psicología me ayuda a tomar decisiones de UX con foco en las personas y su comportamiento. ✨
 
 ---
 
